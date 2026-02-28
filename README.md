@@ -9,10 +9,6 @@ Machine Learning for Early Breast Cancer Detection" accrate ML system classifyin
 - **Target**: Malignant vs Benign
 - **Source**: UCI ML Repository
 
-## Results
-- **Best Model**: Logistic Regression (98.2% accuracy, 0.996 AUC)
-- **Precision/Recall**: 97.6%
-- **Training Time**: <1 second
 
 ## Models
 - Logistic Regression
